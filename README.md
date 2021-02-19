@@ -123,9 +123,9 @@ See [here](#structuring-your-site) for examples on how to structure a site with 
 | [AMP](examples/next-js-amp)                                              |                            Stable                             |
 | Preact                                                                   |                            Stable                             |
 | [React native](packages/react-native)                                    |                             Alpha                             |
-| **Everyting else** <br/> Go, Php, Java, Ruby/Rails, Vanilla JS, etc | Use our [HTML API](https://builder.io/c/docs/getting-started) |
+| **Everything else** <br/> Go, Php, Java, Ruby/Rails, Vanilla JS, etc | Use our [HTML API](https://builder.io/c/docs/getting-started) |
 
-Want support for something not listed here or for us to priotize something coming soon? Drop us an issue and let us know! We prioritize based on the community's needs and interests.
+Want support for something not listed here or for us to prioritize something coming soon? Drop us an issue and let us know! We prioritize based on the community's needs and interests.
 
 ## What's in this repository?
 
@@ -158,9 +158,9 @@ And in your router
 <Route path="/something" render={() => <BuilderComponent model="page" url="/something" />}>
 ```
 
-Create a new page with url "/something" in Builder and change the [preview URL](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F4670438a077f497d8a486f890201ae85) to localhost:port/something (e.g. localhost:8888/something if your dev server is on port 8888) and edit!
+Create a new page with URL "/something" in Builder and change the [preview URL](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F4670438a077f497d8a486f890201ae85) to localhost:port/something (e.g. localhost:8888/something if your dev server is on port 8888) and edit!
 
-See more info on setting up your [preview urls](https://www.builder.io/c/docs/guides/preview-url) here.
+See more info on setting up your [preview URLs](https://www.builder.io/c/docs/guides/preview-url) here.
 
 Also, see the full [React API here](https://github.com/BuilderIO/builder/blob/master/packages/react/README.md)
 
@@ -302,13 +302,13 @@ As well as some handy power features like:
 
 ## Code generation
 
-Check out [JSX Lite](https://github.com/builderio/jsx-lite) to dep dive into how our codegen works and try it yourself!
+Check out [JSX Lite](https://github.com/builderio/jsx-lite) to dep dive into how our code generation works and try it yourself!
 
 <p align="center">
   <img width="600" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F3c0dc574aa8c4b06adff6f91e01cda3d" />
 </p>
 
-![Codegen GIF](https://imgur.com/H1WTtGe.gif)
+![Code generation GIF](https://imgur.com/H1WTtGe.gif)
 
 
 ## We're hiring!
